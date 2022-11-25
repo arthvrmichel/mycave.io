@@ -1,4 +1,4 @@
-![mycave.io](https://ibb.co/my9pMv7)
+![mycave.io](https://i.ibb.co/8xrkSzV/mycave-io-bandeau-2.png)
 
 ---
 
