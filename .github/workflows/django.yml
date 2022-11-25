@@ -21,6 +21,9 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install Ubuntu packages
+      run: |
+        sudo apt install python3-apturl python3-brlapi python3-command-not-found
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
